@@ -9,10 +9,12 @@ We envision a world where agroforestry systems are recognized not just for their
 ### What We Do
 **Develop Open-Source Tools:** Our main project, the Dapp Agroforestry Toolkit, includes a web application and a Telegram bot designed to facilitate the management of agroforestry systems, from planting to harvest, backed by blockchain for enhanced trust and transparency.
 
-**Foster Community:** Through NFTs, Hypercerts, and DAO governance models, we're building a community of agroforestry enthusiasts, developers, and environmental activists committed to regenerative agricultural practices.
+**Foster Community:** Through NFTs, EAS Attestations, Hypercerts, and DAO governance models, we're building a community of agroforestry enthusiasts, developers, and environmental activists committed to regenerative agricultural practices.
 
 **Innovate for Sustainability:** We're exploring how blockchain can support sustainable agroecosystems through tokenomics, decentralized governance, and smart contracts, ensuring that the benefits of agroforestry extend to all stakeholders.
+
 Join Us!!
+
 Whether you're a coder passionate about environmental causes, an agroforester curious about blockchain, or anyone in between, there's a place for you in AgroforestDAO. We're always looking for collaborators to develop our toolkit, refine our blockchain integrations, and spread the word about sustainable agroforestry.
 
 ### Contribute: Check out our repositories to start contributing. Whether it's code, documentation, or community management, your skills can help grow the agroforestry movement.
@@ -21,9 +23,11 @@ Whether you're a coder passionate about environmental causes, an agroforester cu
 **Connect:** Follow us on social media and join our discussions. Share your ideas, ask questions, and become part of a community that's reshaping the future of agriculture.
 Supporting a Greener Tomorrow
 
-At AgroforestDAO, we're more than just a group of technologists and environmentalists; we're pioneers at the intersection of agriculture and blockchain, committed to creating technologies that foster sustainability, equity, and community. Together, we can build a greener, more resilient future.
+At AgroforestDAO, we're more than just a group of technologists and environmentalists; we're pioneers at the intersection of agriculture and blockchain, committed to creating technologies that foster sustainability, equity, and community. 
 
-Join us on this journey. 🌱🌍
+🌱🌍Together, we can build a greener, more resilient future.
+
+
 
 ### 👩‍💻 Useful resources
 - [Miro Board](https://miro.com/app/board/uXjVN8WhMsw=/?share_link_id=557936539315)
