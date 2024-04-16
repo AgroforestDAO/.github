@@ -11,14 +11,15 @@ We envision a world where agroforestry systems are recognized not just for their
 
 <img src="https://github.com/AgroforestDAO/images/blob/main/dataFlow.png">
 
-**Foster Community:** Through NFTs, EAS Attestations, Hypercerts, and DAO governance models, we're building a community of agroforestry enthusiasts, developers, and environmental activists committed to regenerative agricultural practices.
-
+**Foster Community:** Through NFTs, [EAS Attestations](https://sepolia.easscan.org/schema/view/0xbe6a0d3619237de37a1262eb4724d7f238d350b2dea78751fa3a53deb0bb7527), [Hypercerts](https://hypercerts.org/app/view?claimId=0x822f17a9a5eecfd66dbaff7946a8071c265d1d07-18637945800993641520815953998252808477868032), and DAO governance models, we're building a community of agroforestry enthusiasts, developers, and environmental activists committed to regenerative agricultural practices.
+<img src="https://github.com/AgroforestDAO/images/blob/main/feijaoAmigoNFT.jpeg">
 <img src="https://github.com/AgroforestDAO/images/blob/main/mindMap2.jpeg">
-<img src="https://github.com/AgroforestDAO/images/blob/main/mindMap1.jpeg">
+
 
 
 
 **Innovate for Sustainability:** We're exploring how blockchain can support sustainable agroecosystems through tokenomics, decentralized governance, and smart contracts, ensuring that the benefits of agroforestry extend to all stakeholders.
+<img src="https://github.com/AgroforestDAO/images/blob/main/mindMap1.jpeg">
 
 Join Us!!
 
