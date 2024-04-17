@@ -33,8 +33,6 @@ Whether you're a coder passionate about environmental causes, an agroforester cu
 **Learn:** Dive into our resources to learn more about the intersection of agroforestry and blockchain. We believe in education as a tool for empowerment and change.
 
 
-
-
 **Connect:** Follow us on social media and join our discussions. Share your ideas, ask questions, and become part of a community that's reshaping the future of agriculture.
 Supporting a Greener Tomorrow
 
@@ -50,4 +48,5 @@ At AgroforestDAO, we're more than just a group of technologists and environmenta
 - [Website](https://app-agroforestdao.web.app/)
 - [Telegram](https://t.me/+TNwrhRCyCxQ4Zjcx)
 - [Twitter](https://twitter.com/agroforestDAO)
+
 
