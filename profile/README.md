@@ -1,11 +1,20 @@
 ## Welcome to AgroforestDAO
 
-## Introduction
-AgroforestDAO is at the forefront of blending agroforestry with blockchain to cultivate a sustainable future. Our mission is to harness the power of Web3 technologies to support, enhance, and scale the co-stewardship of intergenerational agroecosystems. Through innovative tools like the Project Dapp Agroforestry Toolkit, we're creating a rooted network society that bridges local knowledge and global collaboration.
+AgroforestDAO is a revolutionary initiative at the forefront of merging blockchain technology with agroecology, setting a new standard for sustainability and innovation in the agricultural sector. At the heart of our mission is the desire to transform perennial production areas into hybrid models of governance and production that transcend local and global boundaries through the use of gamified engagement models in education, governance, reputation building, and financial sustainability.
+
+Originating from the visionary perspective of Diogo Jorge, a renowned permaculturist and agroforester, AgroforestDAO is not just a community but a rooted global tribe, committed to optimizing socio-environmental regeneration processes through innovative Web3 technology. Our unique proposition—a forestry adaptation of the CSA model (Community Supported Agriculture)—promotes intergenerational production, backed by a truly global community.
 
 <img src="https://github.com/AgroforestDAO/images/blob/main/saf5.jpeg" width="300px"><img src="https://github.com/AgroforestDAO/images/blob/main/saf3.jpeg" width="300px">
 <img src="https://github.com/AgroforestDAO/images/blob/main/saf2.jpeg" width="300px"><img src="https://github.com/AgroforestDAO/images/blob/main/saf1.jpeg" width="300px">
 
+At our core, we employ blockchain technology not just as an unprecedented coordination tool but also as a means to create lasting bonds between co-producers, recognize the intellectual capital of agroforestry, and chart a dignified career path for urban and rural youth. Our first decentralized cultivation experience has already showcased the transformative potential of this approach, with the sale of shares representing a stake in the harvest and the collaborative establishment of an Agroforestry System (SAF), accompanied by on-chain Hypercerts certificates for participation recognition.
+
+
+
+
+
+## Introduction
+AgroforestDAO is at the forefront of blending agroforestry with blockchain to cultivate a sustainable future. Our mission is to harness the power of Web3 technologies to support, enhance, and scale the co-stewardship of intergenerational agroecosystems. Through innovative tools like the Project **Dapp Agroforestry Toolkit**, we're creating a rooted network society that bridges local knowledge and global collaboration.
 
 ### Our Vision
 We envision a world where agroforestry systems are recognized not just for their ecological benefits, but also for their role in creating a decentralized, transparent, and equitable framework for environmental stewardship. By leveraging blockchain technology, we aim to celebrate and reward the collective efforts of agroforesters, volunteers, and supporters within a "Glocal" community.
