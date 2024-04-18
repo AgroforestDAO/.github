@@ -8,7 +8,7 @@ Originating from the visionary perspective of Diogo Jorge, a renowned permacultu
 
 At our core, we employ blockchain technology not just as an unprecedented coordination tool but also as a means to create lasting bonds between co-producers, recognize the intellectual capital of agroforestry, and chart a dignified career path for urban and rural youth. Our first decentralized cultivation experience has already showcased the transformative potential of this approach, with the sale of shares representing a stake in the harvest and the collaborative establishment of an Agroforestry System (SAF), accompanied by on-chain Hypercerts certificates for participation recognition.
 
-<img src="https://github.com/AgroforestDAO/images/blob/main/saf5.jpeg" width="300px"><img src="https://github.com/AgroforestDAO/images/blob/main/safMorroDaRedencaoAntes.jpeg" width="300px"><img src="https://github.com/AgroforestDAO/images/blob/main/saf4.jpeg" width="300px">
+<img src="https://github.com/AgroforestDAO/images/blob/main/saf5.jpeg" width="300px"><img src="https://github.com/AgroforestDAO/images/blob/main/safMorroDaRedencaoAntes.jpeg" width="300px"><img src="https://github.com/AgroforestDAO/images/blob/main/saf4.png" width="300px">
 
 <img src="https://github.com/AgroforestDAO/images/blob/main/saf2.jpeg" width="300px"><img src="https://github.com/AgroforestDAO/images/blob/main/saf3.jpeg" width="300px"><img src="https://github.com/AgroforestDAO/images/blob/main/Hypercert_AgroforestDAO_Team.PNG">
 
